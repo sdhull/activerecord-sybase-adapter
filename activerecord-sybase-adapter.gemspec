@@ -6,9 +6,9 @@ Gem::Specification.new do |s|
   s.name        = "activerecord-sybase-adapter"
   s.version     = 1.0
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["?"]
+  s.authors     = ["John R. Sheets"]
   s.email       = [""]
-  s.homepage    = ""
+  s.homepage    = "http://dev.rubyonrails.org/ticket/2030"
   s.summary     = "Make ActiveRecord talk to Sybase"
   s.description = ""
 
